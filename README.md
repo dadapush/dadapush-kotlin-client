@@ -2,8 +2,8 @@
 
 ## Requires
 
-* Kotlin 1.3.31
-* Gradle 4.9
+* Kotlin 1.3.41
+* Gradle 5.0
 
 ## Build
 
@@ -54,8 +54,3 @@ Class | Method | HTTP request | Description
  - [com.dadapush.client.models.ResultOfMessagePushResponse](docs/ResultOfMessagePushResponse.md)
  - [com.dadapush.client.models.ResultOfPageResponseOfMessageObject](docs/ResultOfPageResponseOfMessageObject.md)
 
-
-<a name="documentation-for-authorization"></a>
-## Documentation for Authorization
-
-All endpoints do not require authorization.
